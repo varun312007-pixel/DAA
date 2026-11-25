@@ -60,13 +60,13 @@ DAA-Lab-Practicals/
 | Practical 3 | Max-Heap Sort |✅ Completed |
 | Practical 4 | Factorial using Iterative and Recursive Method |✅ Completed  |
 | Practical 5 | Knapsack Problem using Dynamic Programming |✅ Completed |
-| Practical 6 | Matrix Chain Multiplication using Dynamic Programming | |✅ Completed|
-| Practical 7 | Making Change Problem using Dynamic Programming | |✅ Completed |
-| Practical 8 | Graph Traversal (DFS and BFS) | |✅ Completed|
-| Practical 9 | Prim's Algorithm | |✅ Completed |
-| Practical 10 | Kruskal's Algorithm | |✅ Completed |
-| Practical 11 | Floyd–Warshall Algorithm | |✅ Completed |
-| Practical 12 | Travelling Salesman Problem (TSP) | |✅ Completed |
+| Practical 6 | Matrix Chain Multiplication using Dynamic Programming |✅ Completed |
+| Practical 7 | Making Change Problem using Dynamic Programming | ✅ Completed |
+| Practical 8 | Graph Traversal (DFS and BFS) |✅ Completed|
+| Practical 9 | Prim's Algorithm |✅ Completed |
+| Practical 10 | Kruskal's Algorithm |✅ Completed |
+| Practical 11 | Floyd–Warshall Algorithm |✅ Completed |
+| Practical 12 | Travelling Salesman Problem (TSP) |✅ Completed |
 
 ---
 
